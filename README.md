@@ -13,4 +13,12 @@
 ![alt text](https://github.com/crowdpen/crowdpen-r/raw/master/pub/img/top-1k.png "Top 1k projects")
 
 
+    qplot(ro(result_desc$investors), ro(result_desc$raised), xlab="Investors", ylab="Amount raised", main="Top 1000 projects cross-platform - raised 200%+ (outliers removed)", data=result_desc, color=currency)
+
+![alt text](https://github.com/crowdpen/crowdpen-r/raw/master/pub/img/200pct-plus-top-1k.png "Top 1k projects")
+
+    qplot(ro(result_asc$investors), ro(result_asc$raised), xlab="Investors", ylab="Amount raised", main="Top 1000 projects cross-platform - raised 200%+ (outliers removed)", data=result_asc, color=currency)
+
+![alt text](https://github.com/crowdpen/crowdpen-r/raw/master/pub/img/200pct-plus-bottom-1k.png "Bottom 1k projects")
+
 
