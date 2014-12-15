@@ -1,0 +1,9 @@
+Package: crowdpen
+Type: Package
+Title: Connect and import datasets from crowdpen.com platform
+Version: 0.1
+Date: 2014-12-13
+Author: Michiel Kalkman
+Maintainer: Michiel Kalkman <michiel@nosuchtype.com>
+Description: Connect and import datasets from crowdpen.com platform
+License: MIT
