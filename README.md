@@ -1,6 +1,6 @@
 # crowdpen-r
 
-R library for importing crowdpen.com datasets
+R library for importing [https://crowdpen.com](crowdpen.com) datasets
 
 ## Example
 
